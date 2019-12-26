@@ -1,0 +1,16 @@
+PODS:
+  - ZUZU (0.1.0)
+
+DEPENDENCIES:
+  - ZUZU (from `../`)
+
+EXTERNAL SOURCES:
+  ZUZU:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZUZU: b97dd79b3f34615bef74f677f69becdda3bb1c02
+
+PODFILE CHECKSUM: 029c932dc77c2bbc8c8eb924dfc9d206ac36c2de
+
+COCOAPODS: 1.8.4

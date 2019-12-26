@@ -1,0 +1,6 @@
+framework module ZUZU {
+  umbrella header "ZUZU-umbrella.h"
+
+  export *
+  module * { export * }
+}
